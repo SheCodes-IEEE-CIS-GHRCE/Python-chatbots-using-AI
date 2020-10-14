@@ -1,6 +1,7 @@
 # Python-chatbots-using-AI
 
-What is Chatbot?
+#What is Chatbot?
+
 Chatbot is an AI-based software designed to interact with people in their native languages. These conversations are often presented in a visual or textual way, and can exemplify the language of the people by communicating with people in a human-like way. Chatbot is obviously one of the best applications for natural language processing.
 
 Chatbots can be divided into two main categories - Rule-Based and Self-learning.
